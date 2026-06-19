@@ -1,4 +1,5 @@
-Final Solution: Live Working App
+#Final Solution: Live Working App
+
 
 Following extensive research, PRD documentation, and case study analysis, the fully functional application is now live. Please find the project overview video and live app links below:
 
