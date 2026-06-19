@@ -1,9 +1,14 @@
 Final Solution: Live Working App
+
 Following extensive research, PRD documentation, and case study analysis, the fully functional application is now live. Please find the project overview video and live app links below:
 
 https://drive.google.com/file/d/1ca9Dr-SKNLqjaxgyCgNkG7a1a_HC0-Ub/view?usp=drivesdk (Generated using Google NotebookLM based on my case study)
+
 https://drive.google.com/file/d/1ah8zO3NQP73LkshwKZsGPvpl0i1th6hD/view?usp=drivesdk
+
 https://ai.studio/apps/28c43d63-14b8-4d0c-a6f9-2400357f69e9
+
+
 
 
 # InsightX AI: Organizational Intelligence & Problem Detection
