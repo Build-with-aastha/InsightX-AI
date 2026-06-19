@@ -6,6 +6,8 @@ A smart, AI-powered application designed to solve complex user workflows with au
 * *🚀 Live Working App:* [Click Here to Try the App](https://ai.studio/apps/28c43d63-14b8-4d0c-a6f9-2400357f69e9)
 * *📺 Live Demo Video:* [Watch the Video Walkthrough] (https://drive.google.com/file/d/1ca9Dr-SKNLqjaxgyCgNkG7a1a_HC0-Ub/view?usp=drivesdk)
 * *📄 Detailed Case Study:* [Generated using Google NotebookLM based on my case study)](https://drive.google.com/file/d/1ah8zO3NQP73LkshwKZsGPvpl0i1th6hD/view?usp=drivesdk)
+
+* 
 **InsightX AI** is an **AI-powered organizational intelligence platform** designed to bridge the gap between fragmented data and proactive decision-making. It acts as a continuous intelligence layer that sits above an organization's existing systems of record—such as HR, project management, and customer support tools—to synthesize scattered signals into a single, explainable view of organizational health.
 
 ---
