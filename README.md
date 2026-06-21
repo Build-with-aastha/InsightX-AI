@@ -3,7 +3,7 @@
 A smart, AI-powered application designed to solve complex user workflows with automated intelligence.
 
 ## 🔗 Quick Links
-* * Live Working App:* [Click Here to Try the App](https://ai.studio/apps/28c43d63-14b8-4d0c-a6f9-2400357f69e9)
+* * Live Working App:* [Click Here to Try the App](https://ai.studio/apps/28c43d63-14b8-4d0c-a6f9-2400357f69e9?fullscreenApplet=true)
 * * Live Demo Video:* [Watch the Video Walkthrough] (https://drive.google.com/file/d/1ca9Dr-SKNLqjaxgyCgNkG7a1a_HC0-Ub/view?usp=drivesdk)
 * * Case Study Walkthrough:* [Watch the Case Study Explanation Video](https://drive.google.com/file/d/1ca9Dr-SKNLqjaxgyCgNkG7a1a_HC0-Ub/view?usp=drivesdk) (Generated using Google NotebookLM based on my case study)
   
